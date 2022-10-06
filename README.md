@@ -1,22 +1,55 @@
-# FocusTimer-Dark-Mode
-Projeto desenvolvido durante o Stage 05 Explorer da Rocketseat.
+# FocusTimer Dark Mode
+
+Projeto desenvolvido durante o Stage 05 da trilha Explorer, layout disponibilizado pela Rocketseat.
+
+O desafio consiste em construir uma aplicação de um timer de foco, onde é possível definir períodos para se dedicar a alguma atividade.
+
+Adições obrigatórias:
+
+- Criar a versão Dark Mode;
+- Trabalhar com o volume dos sons de cada card.
+
+## Demonstração
+
+<img alt="Demonstração do projeto em tela" src="http://">
+
+## Funcionalidades
+
+- Ícone canto superior direito:<br>
+  Alterna entre Dark Mode e Light Mode
+
+- Play:<br>
+  Aciona o timer.
+- Stop:<br>
+  Para o timer.<br>
+  Reseta o timer para o valor anterior.<br>
+  Remove a seleção e silencia o som de fundo.
+
+- (+) :<br>
+  Aumenta em mais 5 minutos o tempo do timer.
+
+- (-) :<br>
+  Diminui em 5 minutos o tempo do timer.<br>
+  Ao atingir o tempo mínimo de 5 (cinco) minutos não permite diminiur mais.
+
+- Cards:<br>
+  Cada card que se encontra do lado direito, quando selecionado, vai mudar de cor e emitir um som de fundo diferente.
+  Abaixo de cada card é possível controlar o volume de cada card através do slider.
 
 ---
 
-O projeto se trata de um desafio onde, seguindo o layout disponibilizado, desenvolvi um timer para foco com opção de dark mode de acordo com os conceitos aprendidos durante o módulo. Visualize a publicação do resultado final:
+## Construído com:
 
+- HTML
+- CSS
+- JS
 
+## GitHub Pages
 
-<a href="https://araujodai.github.io/FocusTimer-Dark-Mode/" target="_blank">Visualizar publicação</a>
+Clique <a href="https://araujodai.github.io/FocusTimer-Dark-Mode/">Aqui</a> para visualizar a publicação do projeto.
 
+### Ou
 
-### OU
-Escaneie para visualizar no seu celular:
+Escaneie o QR code e visualize no seu celular:
 
-![frame](https://user-images.githubusercontent.com/101216880/187465960-ca5b5322-defe-4b10-8024-dc824bcd1445.png)
-
-
-
----
-# Layout do projeto
-![image](https://user-images.githubusercontent.com/101216880/187467867-86ed5a9b-8a9c-4895-aa1c-467baaf5f573.png)
+<img height="300" width="300" alt="QR Code contendo a URL do projeto" src="https://user-images.githubusercontent.com/101216880/187465960-ca5b5322-defe-4b10-8024-dc824bcd1445.png">
