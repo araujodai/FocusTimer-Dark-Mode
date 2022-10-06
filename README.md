@@ -11,7 +11,7 @@ Adições obrigatórias:
 
 ## Demonstração
 
-<img alt="Demonstração do projeto em tela" src="http://">
+<img alt="Demonstração do projeto em tela" src="https://user-images.githubusercontent.com/101216880/194388242-1594dd27-1f98-4857-8549-f4c89323444e.gif">
 
 ## Funcionalidades
 
